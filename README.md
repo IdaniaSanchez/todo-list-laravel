@@ -2,6 +2,10 @@
 
 Aplicación web para la gestión de tareas diarias desarrollada con Laravel, Livewire y Tailwind CSS. El proyecto implementa una arquitectura reactiva que permite actualizar la interfaz de usuario en tiempo real sin necesidad de recargar la página.
 
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/bc6b450f-9e4d-4552-9cd0-8734ad38f77f" width="100%" style="max-width: 800px;" controls></video>
+</p>
+
 ## Características
 
 * **Gestión reactiva:** Creación, actualización de estado (completado/pendiente) y eliminación de tareas de forma asíncrona mediante componentes de Livewire.
@@ -22,7 +26,7 @@ Para clonar y ejecutar este proyecto en un entorno de desarrollo local, siga est
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/IdaniaSanchez/todo-list-laravel.git
+   git clone [https://github.com/IdaniaSanchez/todo-list-laravel.git](https://github.com/IdaniaSanchez/todo-list-laravel.git)
 
 ```
 
